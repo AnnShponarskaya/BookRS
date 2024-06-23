@@ -1,0 +1,11 @@
+D:\Projects_CSharp\Examples\FuzzyLogic\Fuzzy\bin\Debug\Fuzzy.dll
+D:\Projects_CSharp\Examples\FuzzyLogic\Fuzzy\bin\Debug\Fuzzy.pdb
+D:\Projects_CSharp\Examples\FuzzyLogic\Fuzzy\obj\Debug\Fuzzy.csprojResolveAssemblyReference.cache
+D:\Projects_CSharp\Examples\FuzzyLogic\Fuzzy\obj\Debug\Fuzzy.dll
+D:\Projects_CSharp\Examples\FuzzyLogic\Fuzzy\obj\Debug\Fuzzy.pdb
+C:\Users\user\Desktop\FuzzyLogic\FuzzyLogic\Fuzzy\bin\Debug\Fuzzy.dll
+C:\Users\user\Desktop\FuzzyLogic\FuzzyLogic\Fuzzy\bin\Debug\Fuzzy.pdb
+C:\Users\user\Desktop\FuzzyLogic\FuzzyLogic\Fuzzy\obj\Debug\Fuzzy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FuzzyLogic\FuzzyLogic\Fuzzy\obj\Debug\Fuzzy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FuzzyLogic\FuzzyLogic\Fuzzy\obj\Debug\Fuzzy.dll
+C:\Users\user\Desktop\FuzzyLogic\FuzzyLogic\Fuzzy\obj\Debug\Fuzzy.pdb
